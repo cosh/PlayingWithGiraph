@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+<modelVersion>4.0.0</modelVersion>
+<groupId>com.cosh.giraph</groupId>
+<artifactId>giraph-playground</artifactId>
+<version>0.0.1-SNAPSHOT</version>
+<dependencies>
+<dependency>
+<groupId>org.apache.giraph</groupId>
+<artifactId>giraph-core</artifactId>
+<version>1.1.0</version>
+</dependency>
+<dependency>
+<groupId>org.apache.hadoop</groupId>
+<artifactId>hadoop-core</artifactId>
+<version>1.2.1</version>
+</dependency>
+</dependencies>
+<build>
+</build>
+</project>
