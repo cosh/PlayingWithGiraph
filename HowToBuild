@@ -1,0 +1,7 @@
+git clone https://github.com/apache/giraph.git
+cd giraph/giraph-core
+mvn -Phadoop_1 package -Dmaven.test.skip=true
+cd ../..
+git clone https://github.com/cosh/PlayingWithGiraph.git
+cd PlayingWithGiraph
+mvn package
